@@ -1,0 +1,3 @@
+AQI: https://www.kaggle.com/datasets/saikiranudayana/india-air-quality-index-aqi-dataset-20232025
+Latitude & Longitude: https://www.kaggle.com/datasets/arjunprasadsarkhel/indian-city-latitude-longitude
+API_Real Time: https://explore.openaq.org/#1.2/20/40
