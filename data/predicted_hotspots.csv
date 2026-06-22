@@ -1,0 +1,256 @@
+area,state,lat,lon,last_known_date,last_known_aqi,forecast_date,predicted_aqi,predicted_category,is_hotspot
+Delhi,Delhi,28.66,77.23,2025-04-30,198,2025-05-07,221.75159019170707,Poor,True
+Baghpat,Uttar Pradesh,,,2025-04-30,178,2025-05-07,208.9921582235577,Poor,True
+Bhiwadi,Rajasthan,,,2025-04-30,212,2025-05-07,202.8993485817732,Poor,True
+Sri Ganganagar,Rajasthan,,,2025-04-30,233,2025-05-07,197.8505305962906,Moderate,False
+Ghaziabad,Uttar Pradesh,28.6667,77.4167,2025-04-30,146,2025-05-07,195.93142033846533,Moderate,False
+Gurugram,Haryana,,,2025-04-30,270,2025-05-07,194.4615043060544,Moderate,False
+Greater Noida,Uttar Pradesh,,,2025-04-30,140,2025-05-07,194.1287757237207,Moderate,False
+NOIDA,Uttar Pradesh,,,2025-04-30,176,2025-05-07,186.67053533654425,Moderate,False
+Hanumangarh,Rajasthan,,,2025-04-27,380,2025-05-04,182.19063947471741,Moderate,False
+Baddi,Himachal Pradesh,,,2025-04-30,169,2025-05-07,181.40894602420553,Moderate,False
+Muzaffarnagar,Uttar Pradesh,29.4708,77.7033,2025-04-30,147,2025-05-07,180.8256946933198,Moderate,False
+Meerut,Uttar Pradesh,28.99,77.7,2025-04-30,156,2025-05-07,175.82527281206993,Moderate,False
+Jhunjhunu,Rajasthan,,,2025-04-30,202,2025-05-07,173.7042479481804,Moderate,False
+Dausa,Rajasthan,,,2025-04-30,232,2025-05-07,172.96081610762644,Moderate,False
+Singrauli,Madhya Pradesh,,,2025-04-30,70,2025-05-07,167.9637281959834,Moderate,False
+Bulandshahr,Uttar Pradesh,,,2025-04-30,127,2025-05-07,166.90790070423782,Moderate,False
+Bikaner,Rajasthan,28.0181,73.3169,2025-04-30,212,2025-05-07,165.01306648266515,Moderate,False
+Dhanbad,Jharkhand,23.7928,86.435,2025-04-30,127,2025-05-07,164.68440603272583,Moderate,False
+Hajipur,Bihar,,,2025-04-30,68,2025-05-07,162.9583841714925,Moderate,False
+Churu,Rajasthan,,,2025-04-30,196,2025-05-07,160.78686332633336,Moderate,False
+Baran,Rajasthan,,,2025-04-30,178,2025-05-07,157.48138212708838,Moderate,False
+Siwan,Bihar,,,2025-04-30,92,2025-05-07,156.04095922606098,Moderate,False
+Agartala,Tripura,23.8333,91.2667,2025-04-30,60,2025-05-07,155.26011338948248,Moderate,False
+Bathinda,Punjab,,,2025-04-30,154,2025-05-07,153.7470928642507,Moderate,False
+Sawai Madhopur,Rajasthan,,,2025-04-30,243,2025-05-07,153.6787535533342,Moderate,False
+Aurangabad,Bihar,19.88,75.32,2025-04-30,108,2025-05-07,151.8668818220108,Moderate,False
+Jaipur,Rajasthan,26.9167,75.8667,2025-04-30,185,2025-05-07,150.91880284089518,Moderate,False
+Lucknow,Uttar Pradesh,26.847,80.947,2025-04-30,123,2025-05-07,150.02267423524756,Moderate,False
+Mandi Gobindgarh,Punjab,,,2025-04-27,182,2025-05-04,147.98769254661693,Moderate,False
+Begusarai,Bihar,25.42,86.13,2025-04-30,90,2025-05-07,147.71551900640063,Moderate,False
+Patna,Bihar,25.61,85.1414,2025-04-30,65,2025-05-07,147.46927933654396,Moderate,False
+Sikar,Rajasthan,27.6119,75.1397,2025-04-30,144,2025-05-07,147.4104050168743,Moderate,False
+Pali,Rajasthan,25.7725,73.3233,2025-04-30,205,2025-05-07,147.3863213173889,Moderate,False
+Barbil,Odisha,,,2025-04-30,156,2025-05-07,144.72736794884233,Moderate,False
+Tonk,Rajasthan,,,2025-04-30,126,2025-05-07,144.55971835097162,Moderate,False
+Nagaur,Rajasthan,,,2025-04-30,210,2025-05-07,142.51163403861293,Moderate,False
+Khurja,Uttar Pradesh,,,2025-04-30,129,2025-05-07,140.83636234144967,Moderate,False
+Gwalior,Madhya Pradesh,26.215,78.1931,2025-04-30,158,2025-05-07,139.69426174607125,Moderate,False
+Bundi,Rajasthan,,,2025-04-30,184,2025-05-07,137.31563903884484,Moderate,False
+Mandideep,Madhya Pradesh,,,2025-04-29,152,2025-05-06,137.13186568066718,Moderate,False
+Bileipada,Odisha,,,2025-04-25,224,2025-05-02,136.4867824196422,Moderate,False
+Panchgaon,Haryana,,,2025-04-30,94,2025-05-07,135.72966867900257,Moderate,False
+Hapur,Uttar Pradesh,28.7437,77.7628,2025-04-30,104,2025-05-07,134.5188459917129,Moderate,False
+Kota,Rajasthan,25.18,75.83,2025-04-30,209,2025-05-07,134.1944810137495,Moderate,False
+Dholpur,Rajasthan,,,2025-04-30,120,2025-05-07,133.83857502377958,Moderate,False
+Karauli,Rajasthan,,,2025-04-30,209,2025-05-07,133.59795171251466,Moderate,False
+Barmer,Rajasthan,,,2025-04-30,188,2025-05-07,133.24431306002032,Moderate,False
+Bharatpur,Rajasthan,27.2172,77.49,2025-04-30,157,2025-05-07,132.5092532909489,Moderate,False
+Chandigarh,Chandigarh,30.7353,76.7911,2025-04-30,118,2025-05-07,131.8028360278858,Moderate,False
+Angul,Odisha,,,2025-04-30,156,2025-05-07,130.99458563298415,Moderate,False
+Sasaram,Bihar,,,2025-04-30,74,2025-05-07,130.7832107734024,Moderate,False
+Jalandhar,Punjab,31.3256,75.5792,2025-04-30,138,2025-05-07,128.2242251235135,Moderate,False
+Kunjemura,Chhattisgarh,,,2025-04-30,52,2025-05-07,127.54709891028115,Moderate,False
+Araria,Bihar,,,2025-04-30,58,2025-05-07,126.89176989726441,Moderate,False
+Saharsa,Bihar,,,2025-04-30,41,2025-05-07,126.69325664378539,Moderate,False
+Motihari,Bihar,,,2025-04-30,53,2025-05-07,125.94539964572414,Moderate,False
+Katni,Madhya Pradesh,,,2025-04-30,98,2025-05-07,125.09856653476777,Moderate,False
+Bhopal,Madhya Pradesh,23.25,77.4167,2025-04-30,151,2025-05-07,124.5705935233777,Moderate,False
+Rourkela,Odisha,22.2492,84.8828,2025-04-30,115,2025-05-07,124.18723768722865,Moderate,False
+Byrnihat,Assam,,,2025-04-30,61,2025-05-07,123.97400711335764,Moderate,False
+Gorakhpur,Uttar Pradesh,26.7611,83.3667,2025-04-30,75,2025-05-07,123.76231173603381,Moderate,False
+Chittorgarh,Rajasthan,,,2025-04-30,122,2025-05-07,123.25575359438086,Moderate,False
+Jalore,Rajasthan,,,2025-04-30,158,2025-05-07,123.13013519381272,Moderate,False
+Amritsar,Punjab,31.6167,74.85,2025-04-24,109,2025-05-01,123.08057463159489,Moderate,False
+Rajgir,Bihar,,,2025-04-29,116,2025-05-06,122.7007049493142,Moderate,False
+Patiala,Punjab,30.3204,76.385,2025-04-30,118,2025-05-07,122.61141934520613,Moderate,False
+Pithampur,Madhya Pradesh,,,2025-04-30,166,2025-05-07,121.88977571830611,Moderate,False
+Tumakuru,Karnataka,13.33,77.1,2025-04-19,146,2025-04-26,121.79644235128103,Moderate,False
+Ahmednagar,Maharashtra,19.0833,74.7333,2025-04-30,113,2025-05-07,121.49827191846487,Moderate,False
+Dehradun,Uttarakhand,30.318,78.029,2025-04-30,114,2025-05-07,121.33061335903267,Moderate,False
+Jodhpur,Rajasthan,26.2918,73.0168,2025-04-30,124,2025-05-07,120.67414836065458,Moderate,False
+Jaisalmer,Rajasthan,,,2025-04-30,128,2025-05-07,120.18305083324395,Moderate,False
+Banswara,Rajasthan,,,2025-04-30,119,2025-05-07,120.16989656735251,Moderate,False
+Khanna,Punjab,,,2025-04-30,120,2025-05-07,119.13887247279789,Moderate,False
+Kashipur,Uttarakhand,,,2025-04-30,72,2025-05-07,118.47255079850423,Moderate,False
+Bettiah,Bihar,,,2025-04-30,55,2025-05-07,118.01405773811597,Moderate,False
+Nayagarh,Odisha,,,2025-04-30,58,2025-05-07,116.5349343127277,Moderate,False
+Pratapgarh,Rajasthan,,,2025-04-30,130,2025-05-07,115.8652293834541,Moderate,False
+Ahmedabad,Gujarat,23.03,72.58,2025-04-30,110,2025-05-07,115.84365912014081,Moderate,False
+Ratlam,Madhya Pradesh,23.3167,75.0667,2025-04-30,137,2025-05-07,115.35205200247309,Moderate,False
+Balasore,Odisha,,,2025-04-30,87,2025-05-07,115.12779795899803,Moderate,False
+Asansol,West Bengal,23.6833,86.9667,2025-04-30,80,2025-05-07,114.74090362663037,Moderate,False
+Bihar Sharif,Bihar,,,2025-04-16,111,2025-04-23,113.83061444818671,Moderate,False
+Kanpur,Uttar Pradesh,,,2025-04-30,89,2025-05-07,113.79921996657207,Moderate,False
+Dewas,Madhya Pradesh,,,2025-04-30,139,2025-05-07,113.49483914052405,Moderate,False
+Moradabad,Uttar Pradesh,28.8418,78.7568,2025-04-30,83,2025-05-07,113.10309260496557,Moderate,False
+Pune,Maharashtra,18.5196,73.8553,2025-04-30,101,2025-05-07,112.89881109845176,Moderate,False
+Tumidih,Chhattisgarh,,,2025-04-30,103,2025-05-07,112.70706788472536,Moderate,False
+Chandrapur,Maharashtra,,,2025-04-30,135,2025-05-07,112.34774138010806,Moderate,False
+Samastipur,Bihar,,,2025-04-30,37,2025-05-07,111.9797415214602,Moderate,False
+Muzaffarpur,Bihar,26.12,85.3833,2025-04-30,71,2025-05-07,111.34688428662635,Moderate,False
+Durgapur,West Bengal,23.55,87.32,2025-04-30,72,2025-05-07,111.06275877004072,Moderate,False
+Bhilwara,Rajasthan,25.35,74.6333,2025-04-30,93,2025-05-07,110.80616809413111,Moderate,False
+Dungarpur,Rajasthan,,,2025-04-30,111,2025-05-07,110.69118647754844,Moderate,False
+Byasanagar,Odisha,,,2025-04-30,106,2025-05-07,110.6591178612807,Moderate,False
+Ulhasnagar,Maharashtra,19.2167,73.15,2025-04-30,84,2025-05-07,110.52400539777878,Moderate,False
+Chhapra,Bihar,,,2025-04-28,114,2025-05-05,110.10432777193267,Moderate,False
+Malegaon,Maharashtra,20.55,74.55,2025-04-30,106,2025-05-07,109.27776451853494,Moderate,False
+Munger,Bihar,,,2025-04-30,40,2025-05-07,108.13896630948871,Moderate,False
+Agra,Uttar Pradesh,27.18,78.02,2025-04-30,114,2025-05-07,106.83634148570196,Moderate,False
+Prayagraj,Uttar Pradesh,,,2025-04-30,94,2025-05-07,106.67753119413051,Moderate,False
+Nagpur,Maharashtra,21.1539,79.0831,2025-04-30,106,2025-05-07,106.54041761468993,Moderate,False
+Jalgaon,Maharashtra,21.0167,75.5667,2025-04-30,105,2025-05-07,106.51498397173744,Moderate,False
+Gandhi Nagar,Gujarat,23.22,72.68,2025-04-30,166,2025-05-07,106.26496922467034,Moderate,False
+Navi Mumbai,Maharashtra,,,2025-04-30,91,2025-05-07,106.2506245243487,Moderate,False
+Udaipur,Rajasthan,24.5833,73.6833,2025-04-30,104,2025-05-07,106.06665305546021,Moderate,False
+Suakati,Odisha,,,2025-04-30,70,2025-05-07,105.81490110427772,Moderate,False
+Jhalawar,Rajasthan,,,2025-04-30,123,2025-05-07,105.63549398224964,Moderate,False
+Imphal,Manipur,24.82,93.95,2025-04-30,106,2025-05-07,105.37885503925828,Moderate,False
+Ludhiana,Punjab,30.9083,75.8486,2025-04-30,72,2025-05-07,105.23622840349317,Moderate,False
+Rairangpur,Odisha,,,2025-04-29,80,2025-05-06,105.13804993214166,Moderate,False
+Keonjhar,Odisha,,,2025-04-30,71,2025-05-07,104.23556856315199,Moderate,False
+Jalna,Maharashtra,,,2025-04-30,99,2025-05-07,103.72931703011066,Moderate,False
+Dhule,Maharashtra,,,2025-04-30,104,2025-05-07,101.7268706724265,Moderate,False
+Badlapur,Maharashtra,,,2025-04-30,73,2025-05-07,101.66877119171926,Moderate,False
+Rishikesh,Uttarakhand,,,2025-04-30,98,2025-05-07,101.66458088530082,Moderate,False
+Vatva,Gujarat,,,2025-04-30,98,2025-05-07,101.27919664982765,Moderate,False
+Ajmer,Rajasthan,26.468,74.639,2025-04-30,114,2025-05-07,100.60852961153695,Moderate,False
+Bhiwandi,Maharashtra,19.3,73.0667,2025-04-30,74,2025-05-07,99.44959940773583,Satisfactory,False
+Bhagalpur,Bihar,25.25,87.0167,2025-04-30,38,2025-05-07,99.08280800357858,Satisfactory,False
+Sirohi,Rajasthan,,,2025-04-30,100,2025-05-07,98.83006859372735,Satisfactory,False
+Purnia,Bihar,,,2025-04-30,56,2025-05-07,97.8477123290838,Satisfactory,False
+Gaya,Bihar,24.75,85.0167,2025-04-30,69,2025-05-07,97.55255403288349,Satisfactory,False
+Jabalpur,Madhya Pradesh,23.1667,79.9333,2025-04-30,75,2025-05-07,97.09335545944346,Satisfactory,False
+Aurangabad,Maharashtra,19.88,75.32,2025-04-30,100,2025-05-07,97.0044318188877,Satisfactory,False
+Kalyan,Maharashtra,19.2502,73.1602,2025-04-30,74,2025-05-07,96.99849144663565,Satisfactory,False
+Buxar,Bihar,,,2025-04-30,44,2025-05-07,96.69037695780824,Satisfactory,False
+Milupara,Chhattisgarh,,,2025-04-26,136,2025-05-03,96.6700931736565,Satisfactory,False
+Nashik,Maharashtra,20.0,73.7833,2025-04-30,91,2025-05-07,96.29864052277368,Satisfactory,False
+Jhansi,Uttar Pradesh,25.4486,78.5696,2025-04-30,94,2025-05-07,95.67738601539202,Satisfactory,False
+Talcher,Odisha,,,2025-04-30,100,2025-05-07,95.4777591309665,Satisfactory,False
+Visakhapatnam,Andhra Pradesh,17.7333,83.3167,2025-04-30,63,2025-05-07,95.21012301786678,Satisfactory,False
+Firozabad,Uttar Pradesh,27.15,78.3949,2025-04-30,90,2025-05-07,94.99388161044406,Satisfactory,False
+Alwar,Rajasthan,27.5667,76.6167,2025-04-30,103,2025-05-07,94.6086753086597,Satisfactory,False
+Brajrajnagar,Odisha,,,2025-04-30,57,2025-05-07,94.27337009800092,Satisfactory,False
+Parbhani,Maharashtra,19.2704,76.76,2025-04-30,88,2025-05-07,93.9042712970845,Satisfactory,False
+Mahad,Maharashtra,,,2025-04-30,76,2025-05-07,93.83386122627435,Satisfactory,False
+Solapur,Maharashtra,17.6833,75.9167,2025-04-30,91,2025-05-07,93.39837012982302,Satisfactory,False
+Manguraha,Bihar,,,2025-04-30,112,2025-05-07,93.29765617281471,Satisfactory,False
+Korba,Chhattisgarh,,,2025-04-30,59,2025-05-07,93.27313040234681,Satisfactory,False
+Akola,Maharashtra,20.7333,77.0,2025-04-30,88,2025-05-07,91.86630081411246,Satisfactory,False
+Pimpri Chinchwad,Maharashtra,,,2025-04-30,102,2025-05-07,91.61065784535595,Satisfactory,False
+Howrah,West Bengal,,,2025-04-30,74,2025-05-07,90.69569615453416,Satisfactory,False
+Arrah,Bihar,,,2025-04-30,47,2025-05-07,90.11982529055837,Satisfactory,False
+Mumbai,Maharashtra,18.9667,72.8333,2025-04-30,61,2025-05-07,89.13381589061969,Satisfactory,False
+Ankleshwar,Gujarat,,,2025-04-30,75,2025-05-07,87.57196780401202,Satisfactory,False
+Bareilly,Uttar Pradesh,28.364,79.415,2025-04-30,70,2025-05-07,87.37944976247879,Satisfactory,False
+Kishanganj,Bihar,,,2025-04-30,35,2025-05-07,86.81384107541324,Satisfactory,False
+Amravati,Maharashtra,20.9333,77.75,2025-04-30,78,2025-05-07,86.74242349174038,Satisfactory,False
+Belapur,Maharashtra,,,2025-04-30,71,2025-05-07,86.58527418733631,Satisfactory,False
+Latur,Maharashtra,18.4004,76.57,2025-04-30,88,2025-05-07,85.58421728210465,Satisfactory,False
+Indore,Madhya Pradesh,22.7206,75.8472,2025-04-30,87,2025-05-07,85.52870387023073,Satisfactory,False
+Sangli,Maharashtra,16.8667,74.5667,2025-04-30,75,2025-05-07,85.49606964628877,Satisfactory,False
+Hosur,Tamil Nadu,,,2025-04-30,70,2025-05-07,84.5090949137954,Satisfactory,False
+Baripada,Odisha,,,2025-04-30,60,2025-05-07,84.44092280709957,Satisfactory,False
+Chittoor,Andhra Pradesh,,,2025-04-30,68,2025-05-07,84.03363251834077,Satisfactory,False
+Cuttack,Odisha,20.45,85.8667,2025-04-30,78,2025-05-07,83.53325311641093,Satisfactory,False
+Rajsamand,Rajasthan,,,2025-04-30,82,2025-05-07,83.09592957336007,Satisfactory,False
+Boisar,Maharashtra,,,2025-04-30,59,2025-05-07,82.46974335860821,Satisfactory,False
+Tensa,Odisha,,,2025-04-29,59,2025-05-06,82.40793413792802,Satisfactory,False
+Hyderabad,Telangana,17.3667,78.4667,2025-04-30,74,2025-05-07,82.15320315155039,Satisfactory,False
+Thane,Maharashtra,19.18,72.9633,2025-04-30,58,2025-05-07,81.72122719156175,Satisfactory,False
+Barrackpore,West Bengal,,,2025-04-30,68,2025-05-07,81.66986589053658,Satisfactory,False
+Bengaluru,Karnataka,12.9716,77.5946,2025-04-30,84,2025-05-07,81.27334839120086,Satisfactory,False
+Sagar,Madhya Pradesh,,,2025-04-30,59,2025-05-07,80.71820154302132,Satisfactory,False
+Nanded,Maharashtra,19.15,77.3333,2025-04-30,66,2025-05-07,80.62007965220754,Satisfactory,False
+Chhal,Chhattisgarh,,,2025-04-27,62,2025-05-04,80.46383722564995,Satisfactory,False
+Katihar,Bihar,,,2025-04-30,33,2025-05-07,80.37520096453954,Satisfactory,False
+Vrindavan,Uttar Pradesh,,,2025-04-30,55,2025-05-07,79.59994493536476,Satisfactory,False
+Ujjain,Madhya Pradesh,23.1828,75.7772,2025-04-30,79,2025-05-07,78.78954044170463,Satisfactory,False
+Bhubaneswar,Odisha,20.2644,85.8281,2025-04-30,94,2025-05-07,77.69505370162842,Satisfactory,False
+Kohima,Nagaland,25.6667,94.1194,2025-04-30,61,2025-05-07,77.31714086103571,Satisfactory,False
+Dindigul,Tamil Nadu,,,2025-04-30,99,2025-05-07,77.10432026632066,Satisfactory,False
+Bilaspur,Chhattisgarh,22.15,82.0167,2025-04-29,42,2025-05-06,76.13702013582395,Satisfactory,False
+Kollam,Kerala,,,2025-04-30,73,2025-05-07,76.01157826622247,Satisfactory,False
+Guwahati,Assam,26.1667,91.7667,2025-04-30,44,2025-05-07,75.92015761796156,Satisfactory,False
+Tiruppur,Tamil Nadu,11.1075,77.3398,2025-04-30,77,2025-05-07,75.35184165779727,Satisfactory,False
+Amaravati,Andhra Pradesh,,,2025-04-30,65,2025-05-07,74.88335716522336,Satisfactory,False
+Yadgir,Karnataka,,,2025-04-30,107,2025-05-07,74.74080761415537,Satisfactory,False
+Varanasi,Uttar Pradesh,25.3189,83.0128,2025-04-30,57,2025-05-07,74.53856746318569,Satisfactory,False
+Gummidipoondi,Tamil Nadu,,,2025-04-30,48,2025-05-07,74.32204869959612,Satisfactory,False
+Ooty,Tamil Nadu,,,2025-04-30,72,2025-05-07,73.7202348516436,Satisfactory,False
+Siliguri,West Bengal,26.72,88.42,2025-04-30,57,2025-05-07,73.34179418696156,Satisfactory,False
+Nalbari,Assam,,,2025-04-30,39,2025-05-07,73.04009705035857,Satisfactory,False
+Chikkaballapur,Karnataka,,,2025-04-30,70,2025-05-07,72.42791851012562,Satisfactory,False
+Damoh,Madhya Pradesh,,,2025-04-30,46,2025-05-07,72.05423307088121,Satisfactory,False
+Tirupati,Andhra Pradesh,13.65,79.42,2025-04-30,47,2025-05-07,71.88555096871899,Satisfactory,False
+Virar,Maharashtra,,,2025-04-30,56,2025-05-07,71.49938491168103,Satisfactory,False
+Mangalore,Karnataka,12.8703,74.8806,2025-04-24,80,2025-05-01,71.36597445029298,Satisfactory,False
+Gangtok,Sikkim,27.33,88.62,2025-04-19,51,2025-04-26,71.35470409538526,Satisfactory,False
+Surat,Gujarat,21.17,72.83,2025-04-30,40,2025-05-07,70.51161562096507,Satisfactory,False
+Eloor,Kerala,,,2025-04-30,61,2025-05-07,70.39386041402952,Satisfactory,False
+Kolkata,West Bengal,22.5411,88.3378,2025-04-30,65,2025-05-07,69.87444774322765,Satisfactory,False
+Vapi,Gujarat,,,2025-04-30,42,2025-05-07,69.66807277111342,Satisfactory,False
+Dharwad,Karnataka,,,2025-04-30,65,2025-05-07,69.30800957303093,Satisfactory,False
+Chengalpattu,Tamil Nadu,,,2025-04-30,66,2025-05-07,68.39346844839369,Satisfactory,False
+Kolhapur,Maharashtra,16.7,74.2333,2025-04-30,64,2025-05-07,68.26741129606364,Satisfactory,False
+Mira Bhayandar,Maharashtra,,,2025-04-30,40,2025-05-07,68.26444399417669,Satisfactory,False
+Bidar,Karnataka,17.9229,77.5175,2025-04-29,50,2025-05-06,66.96370493102968,Satisfactory,False
+Virudhunagar,Tamil Nadu,,,2025-04-25,70,2025-05-02,66.9088112143328,Satisfactory,False
+Kadapa,Andhra Pradesh,,,2025-04-30,67,2025-05-07,65.82676843738655,Satisfactory,False
+Raipur,Chhattisgarh,21.2379,81.6337,2025-04-30,42,2025-05-07,65.3184676423227,Satisfactory,False
+Satna,Madhya Pradesh,,,2025-04-23,55,2025-04-30,65.27467509025057,Satisfactory,False
+Thoothukudi,Tamil Nadu,,,2025-04-30,56,2025-05-07,64.41918618679361,Satisfactory,False
+Vijayawada,Andhra Pradesh,,,2025-04-30,60,2025-05-07,64.40867918533688,Satisfactory,False
+Shillong,Meghalaya,25.5744,91.8789,2025-04-30,86,2025-05-07,63.85740054629195,Satisfactory,False
+Ramanagara,Karnataka,,,2025-04-30,49,2025-05-07,62.86964782780879,Satisfactory,False
+Thrissur,Kerala,,,2025-04-30,63,2025-05-07,62.61820910453188,Satisfactory,False
+Nagaon,Assam,,,2025-04-30,55,2025-05-07,62.233028300146906,Satisfactory,False
+Rupnagar,Punjab,,,2025-04-21,15,2025-04-28,61.57775855008571,Satisfactory,False
+Davanagere,Karnataka,14.4667,75.9167,2025-04-30,74,2025-05-07,61.32467104673899,Satisfactory,False
+Bhilai,Chhattisgarh,21.2167,81.4333,2025-04-30,50,2025-05-07,60.933609479695626,Satisfactory,False
+Vellore,Tamil Nadu,,,2025-04-30,51,2025-05-07,60.560008462471075,Satisfactory,False
+Namakkal,Tamil Nadu,,,2025-04-30,51,2025-05-07,60.30470910599889,Satisfactory,False
+Kanchipuram,Tamil Nadu,,,2025-04-30,63,2025-05-07,60.302979354812074,Satisfactory,False
+Salem,Tamil Nadu,11.65,78.1667,2025-04-30,45,2025-05-07,59.437459970242614,Satisfactory,False
+Tirumala,Andhra Pradesh,,,2025-04-30,47,2025-05-07,59.34721500255439,Satisfactory,False
+Tiruchirappalli,Tamil Nadu,,,2025-04-29,70,2025-05-06,58.88393659983239,Satisfactory,False
+Kannur,Kerala,,,2025-04-28,59,2025-05-05,58.79583689266112,Satisfactory,False
+Koppal,Karnataka,,,2025-04-30,56,2025-05-07,57.797641793540954,Satisfactory,False
+Haveri,Karnataka,,,2025-04-29,73,2025-05-06,57.43112690367248,Satisfactory,False
+Coimbatore,Tamil Nadu,11.0,76.9667,2025-04-30,61,2025-05-07,57.25526782202152,Satisfactory,False
+Maihar,Madhya Pradesh,,,2025-04-25,55,2025-05-02,57.116510667986674,Satisfactory,False
+Anantapur,Andhra Pradesh,14.6833,77.6,2025-04-30,48,2025-05-07,56.90263549411665,Satisfactory,False
+Thiruvananthapuram,Kerala,8.5,76.8997,2025-04-30,50,2025-05-07,56.693058840078486,Satisfactory,False
+Ranipet,Tamil Nadu,,,2025-04-30,39,2025-05-07,56.468195720020255,Satisfactory,False
+Hubballi,Karnataka,,,2025-04-30,46,2025-05-07,56.115441644687195,Satisfactory,False
+Haldia,West Bengal,,,2025-04-30,70,2025-05-07,55.88370863439579,Satisfactory,False
+Chennai,Tamil Nadu,13.0825,80.275,2025-04-30,46,2025-05-07,54.97137725999026,Satisfactory,False
+Karur,Tamil Nadu,,,2025-04-21,65,2025-04-28,53.05964479418915,Satisfactory,False
+Naharlagun,Arunachal Pradesh,,,2025-04-30,50,2025-05-07,52.43097498900778,Satisfactory,False
+Rajamahendravaram,Andhra Pradesh,,,2025-04-30,32,2025-05-07,52.19822372311621,Satisfactory,False
+Mysuru,Karnataka,,,2025-04-29,57,2025-05-06,52.077652171678906,Satisfactory,False
+Shivamogga,Karnataka,,,2025-04-30,42,2025-05-07,51.84454014623768,Satisfactory,False
+Pudukottai,Tamil Nadu,,,2025-04-30,35,2025-05-07,51.50815900572665,Satisfactory,False
+Silchar,Assam,,,2025-04-30,47,2025-05-07,51.27846106701318,Satisfactory,False
+Chikkamagaluru,Karnataka,,,2025-04-30,63,2025-05-07,51.21017446652338,Satisfactory,False
+Madurai,Tamil Nadu,9.9197,78.1194,2025-04-30,44,2025-05-07,51.07624583359395,Satisfactory,False
+Kalaburagi,Karnataka,,,2025-04-30,49,2025-05-07,50.76091222216155,Satisfactory,False
+Aizawl,Mizoram,23.7104,92.72,2025-04-30,46,2025-05-07,50.522858560770885,Satisfactory,False
+Ariyalur,Tamil Nadu,,,2025-04-30,38,2025-05-07,48.22876617371586,Good,False
+Gadag,Karnataka,,,2025-04-26,47,2025-05-03,47.245915466287855,Good,False
+Chamarajanagar,Karnataka,,,2025-04-30,47,2025-05-07,47.22805702690305,Good,False
+Bagalkot,Karnataka,,,2025-04-30,46,2025-05-07,46.5542421345132,Good,False
+Sri Vijaya Puram,Andaman and Nicobar Islands,,,2025-04-29,53,2025-05-06,44.938046275770965,Good,False
+Belgaum,Karnataka,15.8667,74.5,2025-04-30,25,2025-05-07,42.08162453788067,Good,False
+Sivasagar,Assam,,,2025-04-30,48,2025-05-07,41.52088906484922,Good,False
+Tirunelveli,Tamil Nadu,,,2025-04-30,42,2025-05-07,40.56815382919484,Good,False
+Cuddalore,Tamil Nadu,,,2025-04-30,22,2025-05-07,40.00779839949584,Good,False
+Puducherry,Puducherry,11.93,79.83,2025-04-30,28,2025-05-07,38.61431659817543,Good,False
+Ramanathapuram,Tamil Nadu,,,2025-04-30,29,2025-05-07,38.572899106667805,Good,False
+Nagapattinam,Tamil Nadu,,,2025-04-30,33,2025-05-07,38.469235102878315,Good,False
+Thanjavur,Tamil Nadu,,,2025-04-30,25,2025-05-07,36.459922734759346,Good,False
+Palkalaiperur,Tamil Nadu,,,2025-04-30,25,2025-05-07,36.36911553353905,Good,False
+Madikeri,Karnataka,,,2025-04-30,26,2025-05-07,35.79945985819731,Good,False
